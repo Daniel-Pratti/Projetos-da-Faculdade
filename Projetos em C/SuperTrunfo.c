@@ -1,4 +1,8 @@
-/*Projeto de um Jogo de SuperTrunfo em C para um trabalho de faculdade.*/
+/*Projeto de um Jogo de SuperTrunfo em C para um trabalho de faculdade.
+Obs: Ainda não tinha aprendido loops, estrutura de repetição e recusividade,
+então o código ficou um pouco extenso e repetitivo.
+Talvez eu refaça o código, mas provavelmente em outra linguagem.
+*/
 
 #include <stdio.h>
 int main (){
