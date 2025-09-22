@@ -1,6 +1,6 @@
 # Repositório de Projetos da Faculdade
 
-Bem-vindo ao repositório dedicado aos meus projetos desenvolvidos durante a faculdade! Aqui você encontrará trabalhos, desafios, atividades práticas e experimentos realizados ao longo do curso, englobando diversas disciplinas e áreas do conhecimento.
+Seja Bem-vindo, este repositório é dedicado aos meus projetos desenvolvidos durante a faculdade! Aqui você encontrará trabalhos, desafios, atividades práticas e experimentos realizados ao longo do curso, englobando diversas disciplinas e áreas do conhecimento.
 
 ## Sobre
 
